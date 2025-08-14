@@ -22,17 +22,17 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 ## 🖼️ Preview
 
 ### Questions
-<img src="Questions.png" alt="dashboard">
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110510_fv5tow.png" alt="dashboard">
 
 ### Page 1
-<img src="Page 1.png" alt="Page 1">
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110403_a5z153.png" alt="Page 1">
 
 
 ### Page 2
-<img src="Page 2.png" alt="Page 2">
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110433_w19fwp.png" alt="Page 2">
 
 ### Page 3
-<img src="Page 3.png" alt="Pae 3">
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110453_xhpdf4.png" alt="Pae 3">
 
 ## 🛠️ Technologies Used
 
