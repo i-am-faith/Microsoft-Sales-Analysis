@@ -49,4 +49,4 @@ Feel free to open issues or submit pull requests! For feedback, reach out via [G
 
 ## 📃 License
 
-This repository is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">MIT License</a>
+This repository is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License</a>
