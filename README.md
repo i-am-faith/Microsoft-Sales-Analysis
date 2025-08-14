@@ -41,6 +41,9 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 
 ---
 
+## CONTRIBUTION
+1. Sonali - I built a clear and interactive Power BI dashboard from scratch, making data easy to explore and understand.
+
 ## 📬 Feedback & Contributions
 
 Feel free to open issues or submit pull requests! For feedback, reach out via [GitHub Issues](https://github.com/i-am-faith/Sales-Analysis-Microsoft/issues).
