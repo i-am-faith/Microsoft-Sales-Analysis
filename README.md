@@ -21,81 +21,26 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 
 ## 🖼️ Preview
 
-Below are sample pages from our sales analysis report:
+### Questions
+<img src="Questions.png">
+<img src="Page 1.png">
+<img src="Page 2.png">
+<img src="Page 3.png">
 
-| ![Questions](Questions.png) | ![page1](page1.png) |
-|:--------------------------:|:-------------------:|
-| **Analysis Questions**      | **Sales Overview**  |
-
-| ![page2](page2.png) | ![paghe3](paghe3.png) |
-|:-------------------:|:---------------------:|
-| **Trends & Insights** | **Profit & Discounts** |
-
----
-
-## 📁 Repository Structure
-
-```
-├── data/             # Raw and processed sales data
-├── notebooks/        # Jupyter/Colab notebooks for analysis
-├── images/           # Visuals and report pages
-│   ├── Questions.png
-│   ├── page1.png
-│   ├── page2.png
-│   └── paghe3.png
-├── src/              # Source code/scripts for analysis
-├── README.md         # Project documentation
-```
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repo**  
-   `git clone https://github.com/<your-username>/Sales-Analysis-Microsoft.git`
-
-2. **Explore the Data**  
-   Browse the `data/` folder for datasets.
-
-3. **Run the Analysis**  
-   Open notebooks in the `notebooks/` folder for interactive analysis, or execute scripts in the `src/` folder.
-
----
-
-## 📈 Insights Delivered
-
-- **Regional and Category Revenue:** Identify top-performing regions and categories.
-- **Product Sales Extremes:** Discover which products lead or lag in sales.
-- **Sales Trends:** Visualize monthly and quarterly sales patterns.
-- **Revenue per Customer:** Calculate average spend per customer.
-- **Profit Margins:** Reveal regions with the strongest profitability.
-- **Category Performance:** Compare sales across product categories.
-- **Growth Analysis:** Track year-over-year growth rates.
-- **Top Buyers:** Pinpoint most valuable customers.
-- **Sales Distribution:** Analyze how sales fluctuate by month.
-- **Discount Impact:** Assess the effect of discounts on total revenue.
-
----
 
 ## 🛠️ Technologies Used
 
-- **Python & Pandas**
-- **Jupyter Notebook**
-- **Matplotlib & Seaborn**
+- **Power BI**
 - **Excel/CSV Data**
 
 ---
 
 ## 📬 Feedback & Contributions
 
-Feel free to open issues or submit pull requests! For feedback, reach out via [GitHub Issues](https://github.com/<your-username>/Sales-Analysis-Microsoft/issues).
+Feel free to open issues or submit pull requests! For feedback, reach out via [GitHub Issues](https://github.com/i-am-faith/Sales-Analysis-Microsoft/issues).
 
 ---
 
 ## 📃 License
 
-This repository is licensed under the MIT License.
-
----
-
-*Sales Analysis Microsoft — Unlocking insights for smarter decisions!*
+This repository is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">MIT License</a>
