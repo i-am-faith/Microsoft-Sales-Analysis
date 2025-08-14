@@ -43,6 +43,7 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 
 ## CONTRIBUTION
 1. Sonali - I built a clear and interactive Power BI dashboard from scratch, making data easy to explore and understand.
+2. Sayan - I wrote the DAX queries for the columns and measures that are the backbone of the project's analysis.
 
 ## 📬 Feedback & Contributions
 
