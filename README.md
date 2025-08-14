@@ -22,11 +22,17 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 ## 🖼️ Preview
 
 ### Questions
-<img src="Questions.png">
-<img src="Page 1.png">
-<img src="Page 2.png">
-<img src="Page 3.png">
+<img src="Questions.png" alt="dashboard">
 
+### Page 1
+<img src="Page 1.png" alt="Page 1">
+
+
+### Page 2
+<img src="Page 2.png" alt="Page 2">
+
+### Page 3
+<img src="Page 3.png" alt="Pae 3">
 
 ## 🛠️ Technologies Used
 
