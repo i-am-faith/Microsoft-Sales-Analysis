@@ -4,21 +4,6 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 
 ---
 
-## 📊 Key Questions Answered
-
-1. **What is the total revenue by region and category?**
-2. **Which products have the highest and lowest sales?**
-3. **What are the monthly and quarterly sales trends?**
-4. **What is the average revenue per customer?**
-5. **Which regions have the highest profit margins?**
-6. **How does sales performance vary by product category?**
-7. **What is the year-over-year sales growth?**
-8. **Which customers are the top buyers?**
-9. **What is the sales distribution across months?**
-10. **How do discounts affect revenue?**
-
----
-
 ## 🖼️ Preview
 
 ### Questions
@@ -40,11 +25,6 @@ Welcome to the **Sales Analysis Microsoft** repository! This project presents a 
 - **Excel/CSV Data**
 
 ---
-
-## CONTRIBUTION
-1. Sonali - I built a clear and interactive Power BI dashboard from scratch, making data easy to explore and understand.
-2. Sayan Chattopadhyay - I wrote the DAX queries for the columns and measures that are the backbone of the project's analysis.
-3. Sourin Mukherjee - Charts and ideation for chart and visualization design and also solved questions.
 
 ## 📬 Feedback & Contributions
 
