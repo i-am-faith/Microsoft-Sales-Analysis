@@ -1,23 +1,16 @@
 # Sales Analysis Microsoft
 
-Welcome to the **Sales Analysis Microsoft** repository! This project presents a comprehensive analysis of sales data, focusing on key business questions to uncover actionable insights. The repository is designed for business analysts, data scientists, and anyone interested in understanding sales performance across regions, products, and time periods.
+Welcome to my **Power BI** repository! The repository is designed for business analysts, data scientists, and anyone interested in understanding sales performance across regions, products, and time periods.
 
 ---
 
 ## 🖼️ Preview
 
-### Questions
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110510_fv5tow.png" alt="dashboard">
+### Dashboard 1
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756722392/BI_1_nxqs4l.png" alt="Dashboard 1">
 
-### Page 1
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110403_a5z153.png" alt="Page 1">
-
-
-### Page 2
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110433_w19fwp.png" alt="Page 2">
-
-### Page 3
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1755152494/Screenshot_2025-08-14_110453_xhpdf4.png" alt="Pae 3">
+### Dashboard 2
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756722393/BI_2_udzeob.png" alt="Dashboard 2">
 
 ## 🛠️ Technologies Used
 
