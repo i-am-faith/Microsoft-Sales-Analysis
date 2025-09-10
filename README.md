@@ -15,6 +15,11 @@ Welcome to my **Power BI** repository! The repository is designed for business a
 ### Dashboard 3
 <img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756892093/BI_3_unym8w.png" alt="Dashboard 3">
 
+### Dashboard 4
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1757529508/BI_4_ssoqlu.png" alt="Dashboard 4">
+
+
+
 
 ## 🛠️ Technologies Used
 
