@@ -25,6 +25,7 @@ Welcome to my **Power BI** repository! The repository is designed for business a
 
 - **Power BI**
 - **Excel/CSV Data**
+- **Figma**
 
 ---
 
