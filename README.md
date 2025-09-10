@@ -10,7 +10,7 @@ Welcome to my **Power BI** repository! The repository is designed for business a
 <img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756722392/BI_1_nxqs4l.png" alt="Dashboard 1">
 
 ### Dashboard 2
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756892095/BI_2_xmlkvr.png" alt="Dashboard 2">
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1757494577/USA_Resturant_Analysis_uhfp5n.png" alt="Dashboard 2">
 
 ### Dashboard 3
 <img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1756892093/BI_3_unym8w.png" alt="Dashboard 3">
